@@ -1,6 +1,6 @@
-# Google Drive Uploader Telegram Bot
+# Senku Google Drive Uploader Telegram Bot
 **An asyncio Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/uploadgdrivebot)
+- Find it on Telegram as [ Senku Google Drive Uploader](https://t.me/senku_gdrive_bot)
 
 ## Features
 - [X] Telegram files support.
@@ -19,7 +19,7 @@
 ### Installation
 - Clone this git repository.
 ```sh 
-git clone https://github.com/Yesawini12345gdrive-uploader-telegram-bot
+git clone https://github.com/Devilharsha/SENKU-Gdrive-uploader-
 ```
 - Change Directory
 ```sh 
@@ -42,14 +42,16 @@ python3 bot.py
 ```
 ## Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devilharsha/SENKU-Gdrive-uploader-/tree/master)
 
 - Note: Bot is in beta stage. Maybe it throw some errors.
 
 ## Credits
-- [Dan](https://github.com/delivrance) for [PyroGram](https://pyrogram.org)
-- [Spechide](https://github.com/Spechide) for [gDrive_sql.py](./helpers/gDrive_sql.py)
-- [Shivam Jha](https://github.com/lzzy12) for [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
+- [harsha](https://github.com/Devilharsha) owner
+- [yeswi](https://GitHub.com/Yesawini12345) owner
+- [Dan](https://github.com/delivrance) base
+- [Spechide](https://github.com/Spechide) base
+- [Shivam Jha](https://github.com/lzzy12) base
 
 ## :clap:  Supporters
 [![Stargazers repo roster for @Yesawini12345gdrive-uploader-telegram-bot](https://reporoster.com/stars/Yesawini12345/gdrive-uploader-telegram-bot)](https://github.com/Yesawini12345/gdrive-uploader-telegram-bot/stargazers)
