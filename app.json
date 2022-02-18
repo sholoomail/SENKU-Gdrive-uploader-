@@ -1,7 +1,7 @@
 {
   "name": "SENKU GDrive-Uploader-Bot",
   "description": "Telegram/Direct Links to SENKU GDrive Uploader Bot",
-  "repository": "https://github.com/Yesawini12345/GDrive-Uploader-TG-Bot",
+  "repository": "https://github.com/Devilharsha/SENKU-Gdrive-uploader-",
   "logo": "https://te.legra.ph/file/863e1469fa066beb212a5.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
