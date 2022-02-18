@@ -12,7 +12,7 @@ G_DRIVE_CLIENT_ID = "197036948433-4sjgjrj1osm5b5neu8khh7c2nsvn96f7.apps.googleus
 G_DRIVE_CLIENT_SECRET = "dnXoMIu2V7HQ8G8RicrKmvlu"
 flow = None
 
-@SENKUBOTS.on_message(Filters.private & Filters.incoming & Filters.command(['auth']))
+@Client.on_message(Filters.private & Filters.incoming & Filters.command(['auth']))
 async def _auth(client, message):
   creds = db.get_credential(message.from_user.id)
   if creds is not None:
