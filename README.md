@@ -52,7 +52,5 @@ python3 bot.py
 - [Dan](https://github.com/delivrance) base
 - [Spechide](https://github.com/Spechide) base
 - [Shivam Jha](https://github.com/lzzy12) base
+- [gdrive](https://github.com/cdfxscrq/GDrive-Uploader-TG-Bot)
 
-## :clap:  Supporters
-[![Stargazers repo roster for @Yesawini12345gdrive-uploader-telegram-bot](https://reporoster.com/stars/Yesawini12345/gdrive-uploader-telegram-bot)](https://github.com/Yesawini12345/gdrive-uploader-telegram-bot/stargazers)
-[![Forkers repo roster for @Yesawini12345/gdrive-uploader-telegram-bot](https://reporoster.com/forks/Yesawini12345/gdrive-uploader-telegram-bot)](https://github.com/Yesawini12345/gdrive-uploader-telegram-bot/network/members)
