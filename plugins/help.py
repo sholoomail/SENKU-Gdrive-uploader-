@@ -42,7 +42,7 @@ def map(pos):
 
         button = [
             [InlineKeyboardButton(text = 'Support Chat', url = "https://t.me/SENKUCHAT ")],
-            [InlineKeyboardButton(text = 'repo', url = "https://github.com/Devilharsha/GDrive-Uploader-TG-Bot")],
+            [InlineKeyboardButton(text = 'repo', url = "https://github.com/Devilharsha/SENKU-Gdrive-uploader-")],
             [InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")]
 
         ]
