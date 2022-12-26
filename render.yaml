@@ -1,0 +1,15 @@
+services:
+  - type: worker
+    name: sholooanydlbot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    repo: https://github.com/Devilharsha/SENKU-Gdrive-uploader-.git
+    branch: SENKU
+    envVars:
+      - key: BOT_TOKEN 
+        sync: false
+      - key: APP_ID 
+        sync: false
+      - key: API_HASH 
+        sync: false
