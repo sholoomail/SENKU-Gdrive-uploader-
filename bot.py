@@ -14,5 +14,3 @@ app = Client('GDrive-Bot',
 
 
 app.run()
-
-Must join https://t.me/SENKUBOTS
