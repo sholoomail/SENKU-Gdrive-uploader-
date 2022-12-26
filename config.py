@@ -7,7 +7,12 @@ class Config:
     APP_ID = os.environ.get('APP_ID')
     API_HASH = os.environ.get('API_HASH')
     DATABASE_URL = os.environ.get('DATABASE_URL')
- 
+  else:
+    BOT_TOKEN = '1844354780:AAEa8-VXh6Nit5A_GGLZRXBu2ZJxOss51ds' # Get it from https://t.me/BotFather
+    APP_ID = '5294058' # Get it from my.telegram.org/apps
+    API_HASH = '272488956fb89447297a1b4250efef06' # Get it from my.telegram.org/apps
+    DATABASE_URL = 'mongodb+srv://zorti:zorti@cluster0.0uuxd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority' # SQL Database URL / Heroku Postgres URL
+
 
 class Messages:
 
